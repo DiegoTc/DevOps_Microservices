@@ -1,0 +1,6 @@
+<paste log output from Kubernetes-mediated prediction, here>
+(.devops) diego@diego-G5-5587:~/Documents/Proyectos/Udacity/kubernetes/project_machine/FinalProject$ ./run_kubernetes.sh
+deployment.apps/prediction created
+NAME                          READY   STATUS              RESTARTS   AGE
+prediction-596f7b4d98-nllj7   0/1     ContainerCreating   0          0s
+service/prediction exposed
